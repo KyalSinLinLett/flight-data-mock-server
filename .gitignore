@@ -1,0 +1,10 @@
+bin
+include
+lib
+lib64
+share
+lib/python3.8
+pyvenv.cfg
+.env
+arrivals.json
+departure.json
