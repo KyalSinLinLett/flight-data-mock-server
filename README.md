@@ -1,9 +1,9 @@
-##Simple Mock Server for polling Flight Data
+## Simple Mock Server for polling Flight Data
 
-###Requirements
+### Requirements
 - Python3, pip3
 
-###Setup
+### Setup
 - create a python virtual environment
 ```bash
 python3 -m venv ./sample-env
